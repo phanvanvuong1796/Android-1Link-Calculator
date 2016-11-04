@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/phanvuong/Desktop/1Link/homework1Link/Calculator/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/phanvuong/Desktop/1Link/homework1Link/Calculator/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_c470e6127a0dcf00f65a6f2b76a1e4994190c734.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/phanvuong/Desktop/1Link/homework1Link/Calculator/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/phanvuong/Desktop/1Link/homework1Link/Calculator/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_2a5dc68e6fe0ef080ddc1896d87d3d94e438a4c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/phanvuong/Desktop/1Link/homework1Link/Calculator/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/phanvuong/Desktop/1Link/homework1Link/Calculator/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_940fd69bb958b22b1b1456e7f7a2258007a2c007.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/phanvuong/Desktop/1Link/homework1Link/Calculator/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/phanvuong/Desktop/1Link/homework1Link/Calculator/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_94f5b30c78c94ae4cccec18e7d028b5916787bc6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/phanvuong/Desktop/1Link/homework1Link/Calculator/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/phanvuong/Desktop/1Link/homework1Link/Calculator/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_fbeb4ec6e330634752d150f80474f67bde5fcb6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/phanvuong/Desktop/1Link/homework1Link/Calculator/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/phanvuong/Desktop/1Link/homework1Link/Calculator/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_d1612fd78d68caf3341d37a8ecbd6939e9aba486.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/phanvuong/Desktop/1Link/homework1Link/Calculator/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/phanvuong/Desktop/1Link/homework1Link/Calculator/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_0309e31ad4dfceaad81be5463e498f590c8fa407.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/phanvuong/Desktop/1Link/homework1Link/Calculator/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/phanvuong/Desktop/1Link/homework1Link/Calculator/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_d36b09daf29f02f155b656952335ed228bcee00d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/phanvuong/Desktop/1Link/homework1Link/Calculator/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/phanvuong/Desktop/1Link/homework1Link/Calculator/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_2986807d2ddf605ecdab7497feabc55b1dc48038.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/phanvuong/Desktop/1Link/homework1Link/Calculator/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/phanvuong/Desktop/1Link/homework1Link/Calculator/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_9cc497572500270f115fd611251e11058dcb6ca5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/phanvuong/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/phanvuong/Desktop/1Link/homework1Link/Calculator/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_1299849deb93f3dfb920751f81df7d275b5b3008.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/phanvuong/Desktop/1Link/homework1Link/Calculator/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/phanvuong/Desktop/1Link/homework1Link/Calculator/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_4f5b74eb9b5c5c897029b0189e6eff41538dcfd7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/phanvuong/Desktop/1Link/homework1Link/Calculator/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/phanvuong/Desktop/1Link/homework1Link/Calculator/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_5565c0a35b3621ea9d79269cca73b0467b4cb51b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/phanvuong/Desktop/1Link/homework1Link/Calculator/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/phanvuong/Desktop/1Link/homework1Link/Calculator/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_62c04baa11cef65ab50328960c3c2b831b312963.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/phanvuong/Desktop/1Link/homework1Link/Calculator/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/phanvuong/Desktop/1Link/homework1Link/Calculator/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_4a3f4eb6fb70fe5fdc5c0e480a6f7966403b5fab.jar" />
+    </item>
+
+</items>
